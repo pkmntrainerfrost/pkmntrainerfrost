@@ -1,6 +1,6 @@
 # Greetings! 
 
-Welcome to my GitHub profile, which currently also doubles as a temporary portfolio page. Below, I've curated a few of my best - taking that term loosely - works thus far, most of which assignments done very close to their respective deadlines.
+Welcome to my GitHub profile, which currently also doubles as a temporary portfolio page. Below, I've curated a few of my best - taking that term loosely - works thus far, most of which assignments done for academic purposes.
 
 ## CTF Writeups
 
